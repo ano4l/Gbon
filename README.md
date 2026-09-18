@@ -1,4 +1,4 @@
-# Gabon Connect — Demo Website
+# OSA Connect — Demo Website
 
 Pitch demo built from `GABON CONNECT .pdf` (brief v2). Static, no backend, French-first with an English toggle.
 

@@ -11,19 +11,19 @@ export const en = {
   },
   footer: {
     tagline:
-      'A signpost, never a destination. Gabon Connect tells you where to go — official procedures always happen on official platforms.',
+      'A signpost, never a destination. OSA Connect tells you where to go — official procedures always happen on official platforms.',
     disclaimer:
-      'Gabon Connect is an independent private initiative. It is not a service of the Gabonese State and claims no official status, partnership or endorsement. All public-sector information shown here is illustrative and must be verified on the official platforms (lejmp.com, SIGFiP, ANPI-Gabon).',
+      'OSA Connect is an independent private initiative. It is not a service of the Gabonese State and claims no official status, partnership or endorsement. All public-sector information shown here is illustrative and must be verified on the official platforms (lejmp.com, SIGFiP, ANPI-Gabon).',
     officialLinks: 'Official platforms',
     explore: 'Explore',
     contact: 'Contact',
-    rights: 'Gabon Connect. Demo website.',
+    rights: 'OSA Connect. Demo website.',
   },
   home: {
     heroEyebrow: 'For Gabon’s entrepreneurs and SMEs',
     heroTitle: 'Know exactly what you qualify for. Then go get it.',
     heroSub:
-      'Gabon Connect tells Gabonese entrepreneurs what they qualify for today — SME-reserved public contracts, guarantees, support programs — what they’re missing, and points them to the official platforms to act.',
+      'OSA Connect tells Gabonese entrepreneurs what they qualify for today — SME-reserved public contracts, guarantees, support programs — what they’re missing, and points them to the official platforms to act.',
     ctaPrimary: 'Check your readiness',
     ctaSecondary: 'Join the waitlist',
     heroNote: 'Free · 2 minutes · No sign-up needed for the demo',
@@ -70,7 +70,7 @@ export const en = {
     signpostEyebrow: 'Our one hard rule',
     signpostTitle: 'A signpost, never a destination.',
     signpostText:
-      'Gabon Connect hosts no tenders, no bids, no official data. It points to lejmp.com, SIGFiP, ANPI, SGG, Kimba Connect and company procurement pages. It is built to strengthen Gabon’s existing official systems — not to duplicate them.',
+      'OSA Connect hosts no tenders, no bids, no official data. It points to lejmp.com, SIGFiP, ANPI, SGG, Kimba Connect and company procurement pages. It is built to strengthen Gabon’s existing official systems — not to duplicate them.',
     signpostLinks: 'Platforms we point to',
     factsEyebrow: 'Concrete reference points',
     facts: [
@@ -121,7 +121,7 @@ export const en = {
     networkLink: 'Find a partner',
     summaryLabel: 'Your profile',
     disclaimer:
-      'Gabon Connect issues no official eligibility decision. This check uses simplified rules from public information to orient you. Decisions belong to the competent bodies (DGMP, ARMP, ANPI-Gabon, SGG, etc.).',
+      'OSA Connect issues no official eligibility decision. This check uses simplified rules from public information to orient you. Decisions belong to the competent bodies (DGMP, ARMP, ANPI-Gabon, SGG, etc.).',
     saveTitle: 'Get these results by email',
     saveButton: 'Send me my results',
   },
@@ -149,7 +149,7 @@ export const en = {
     founded: 'Founded',
     team: 'Team size',
     connectTitle: 'Connect with',
-    connectText: 'For the demo, this sends an introduction request to the Gabon Connect team.',
+    connectText: 'For the demo, this sends an introduction request to the OSA Connect team.',
     yourName: 'Your name',
     yourEmail: 'Your email',
     message: 'Message',
@@ -197,13 +197,13 @@ export const en = {
     eyebrow: 'About / Vision',
     title: 'Making Gabon’s own entrepreneurship push work even better.',
     lead:
-      'Gabon Connect was born from a simple observation: the mechanisms exist — SME-reserved contracts, guarantees, support windows, the startup label — but too many entrepreneurs don’t know what they’re entitled to, or what they’re missing to access it.',
+      'OSA Connect was born from a simple observation: the mechanisms exist — SME-reserved contracts, guarantees, support windows, the startup label — but too many entrepreneurs don’t know what they’re entitled to, or what they’re missing to access it.',
     founderEyebrow: 'The founder’s story',
     founderTitle: 'Why this project',
     founder: [
       'I grew up between Libreville and the diaspora, with one conviction: Gabon is full of capable people, but the information that turns capability into a contract or a loan is scattered, technical, and often out of reach for those who need it most.',
       'A builder in Nzeng-Ayong able to deliver an 80 million FCFA site should not miss an SME-reserved contract because he didn’t know he was missing a tax certificate. A young founder in Port-Gentil should not discover the SGG after giving up on her loan.',
-      'Gabon Connect is the missing link between ambition and the mechanisms that already exist. It assesses, it reveals, it orients. It replaces nothing.',
+      'OSA Connect is the missing link between ambition and the mechanisms that already exist. It assesses, it reveals, it orients. It replaces nothing.',
     ],
     whyEyebrow: 'Why this matters for Gabon',
     whyTitle: 'Diversification, SMEs, digitalization: three national priorities, one lever.',
@@ -218,15 +218,15 @@ export const en = {
       },
       {
         title: 'Digitalization',
-        text: 'SIGFiP, lejmp.com and Kimba Connect have digitized the official chain. Gabon Connect adds a support layer that brings more, better-prepared businesses onto those platforms.',
+        text: 'SIGFiP, lejmp.com and Kimba Connect have digitized the official chain. OSA Connect adds a support layer that brings more, better-prepared businesses onto those platforms.',
       },
     ],
     govEyebrow: 'How we work with government',
     govTitle: 'Complement and strengthen. Never duplicate, never compete.',
     gov: [
-      'Gabon Connect is designed to sit upstream of official systems, not in their place. We host no tenders, no bids, no document uploads, no transactions. We do not scrape or republish any official data in real time.',
+      'OSA Connect is designed to sit upstream of official systems, not in their place. We host no tenders, no bids, no document uploads, no transactions. We do not scrape or republish any official data in real time.',
       'Our role ends where the State’s begins: when a business is ready, we send it to lejmp.com to bid, to SIGFiP for its financial procedures, to ANPI-Gabon to formalize or obtain the startup label, to SGG for a guarantee, to Kimba Connect for support.',
-      'We are seeking dialogue with the DGMP, ARMP, ANPI-Gabon and the relevant ministries so that Gabon Connect’s explanatory content is accurate, current and useful — and so the platform acts as an amplifier for existing public policy.',
+      'We are seeking dialogue with the DGMP, ARMP, ANPI-Gabon and the relevant ministries so that OSA Connect’s explanatory content is accurate, current and useful — and so the platform acts as an amplifier for existing public policy.',
     ],
     govPledgeTitle: 'Our commitments',
     govPledge: [

@@ -60,7 +60,7 @@ function Header() {
       </div>
       {/* Brand row */}
       <div className="container-x flex items-center justify-between py-4">
-        <Link to="/" aria-label="Gabon Connect — accueil">
+        <Link to="/" aria-label="OSA Connect — accueil">
           <Logo />
         </Link>
         <div className="hidden items-center gap-3 lg:flex">

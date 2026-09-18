@@ -11,19 +11,19 @@ export const fr = {
   },
   footer: {
     tagline:
-      'Un signal d’orientation, jamais une destination. Gabon Connect vous indique où aller — les démarches officielles se font toujours sur les plateformes officielles.',
+      'Un signal d’orientation, jamais une destination. OSA Connect vous indique où aller — les démarches officielles se font toujours sur les plateformes officielles.',
     disclaimer:
-      'Gabon Connect est une initiative privée indépendante. Elle n’est pas un service de l’État gabonais et ne prétend à aucun statut, partenariat ou agrément officiel. Toutes les informations du secteur public présentées ici sont illustratives et doivent être vérifiées sur les plateformes officielles (lejmp.com, SIGFiP, ANPI-Gabon).',
+      'OSA Connect est une initiative privée indépendante. Elle n’est pas un service de l’État gabonais et ne prétend à aucun statut, partenariat ou agrément officiel. Toutes les informations du secteur public présentées ici sont illustratives et doivent être vérifiées sur les plateformes officielles (lejmp.com, SIGFiP, ANPI-Gabon).',
     officialLinks: 'Plateformes officielles',
     explore: 'Explorer',
     contact: 'Contact',
-    rights: 'Gabon Connect. Site de démonstration.',
+    rights: 'OSA Connect. Site de démonstration.',
   },
   home: {
     heroEyebrow: 'Pour les entrepreneurs et PME du Gabon',
     heroTitle: 'Sachez exactement à quoi vous êtes éligible. Puis allez le chercher.',
     heroSub:
-      'Gabon Connect dit aux entrepreneurs gabonais ce à quoi ils peuvent prétendre aujourd’hui — marchés publics réservés aux PME, garanties, programmes d’accompagnement — ce qui leur manque pour y accéder, et les oriente vers les plateformes officielles pour agir.',
+      'OSA Connect dit aux entrepreneurs gabonais ce à quoi ils peuvent prétendre aujourd’hui — marchés publics réservés aux PME, garanties, programmes d’accompagnement — ce qui leur manque pour y accéder, et les oriente vers les plateformes officielles pour agir.',
     ctaPrimary: 'Vérifier mon éligibilité',
     ctaSecondary: 'Rejoindre la liste d’attente',
     heroNote: 'Gratuit · 2 minutes · Aucune inscription requise pour la démo',
@@ -70,7 +70,7 @@ export const fr = {
     signpostEyebrow: 'Notre règle d’or',
     signpostTitle: 'Un panneau indicateur, jamais une destination.',
     signpostText:
-      'Gabon Connect n’héberge aucun appel d’offres, aucune soumission, aucune donnée officielle. Il oriente vers lejmp.com, le SIGFiP, l’ANPI, la SGG, Kimba Connect et les pages achats des entreprises. Il est conçu pour renforcer les dispositifs existants de l’État gabonais — pas pour les dupliquer.',
+      'OSA Connect n’héberge aucun appel d’offres, aucune soumission, aucune donnée officielle. Il oriente vers lejmp.com, le SIGFiP, l’ANPI, la SGG, Kimba Connect et les pages achats des entreprises. Il est conçu pour renforcer les dispositifs existants de l’État gabonais — pas pour les dupliquer.',
     signpostLinks: 'Plateformes vers lesquelles nous orientons',
     factsEyebrow: 'Repères concrets',
     facts: [
@@ -122,7 +122,7 @@ export const fr = {
     networkLink: 'Trouver un partenaire',
     summaryLabel: 'Votre profil',
     disclaimer:
-      'Gabon Connect ne délivre aucune décision d’éligibilité officielle. Ce test utilise des règles simplifiées, issues d’informations publiques, pour vous orienter. Les décisions appartiennent aux organismes compétents (DGMP, ARMP, ANPI-Gabon, SGG, etc.).',
+      'OSA Connect ne délivre aucune décision d’éligibilité officielle. Ce test utilise des règles simplifiées, issues d’informations publiques, pour vous orienter. Les décisions appartiennent aux organismes compétents (DGMP, ARMP, ANPI-Gabon, SGG, etc.).',
     saveTitle: 'Recevoir ces résultats par e-mail',
     saveButton: 'M’envoyer mes résultats',
   },
@@ -150,7 +150,7 @@ export const fr = {
     founded: 'Créée en',
     team: 'Effectif',
     connectTitle: 'Prendre contact avec',
-    connectText: 'Pour la démo, cette action envoie une demande de mise en relation à l’équipe Gabon Connect.',
+    connectText: 'Pour la démo, cette action envoie une demande de mise en relation à l’équipe OSA Connect.',
     yourName: 'Votre nom',
     yourEmail: 'Votre e-mail',
     message: 'Message',
@@ -198,13 +198,13 @@ export const fr = {
     eyebrow: 'À propos / Vision',
     title: 'Faire fonctionner encore mieux l’élan entrepreneurial du Gabon.',
     lead:
-      'Gabon Connect est né d’un constat simple : les dispositifs existent — marchés réservés aux PME, garanties, guichets d’accompagnement, label startup — mais trop d’entrepreneurs ne savent pas ce à quoi ils ont droit, ni ce qui leur manque pour y accéder.',
+      'OSA Connect est né d’un constat simple : les dispositifs existent — marchés réservés aux PME, garanties, guichets d’accompagnement, label startup — mais trop d’entrepreneurs ne savent pas ce à quoi ils ont droit, ni ce qui leur manque pour y accéder.',
     founderEyebrow: 'Le récit du fondateur',
     founderTitle: 'Pourquoi ce projet',
     founder: [
       'J’ai grandi entre Libreville et la diaspora, avec une conviction : le Gabon regorge de personnes capables, mais l’information qui transforme une capacité en contrat ou en financement est dispersée, technique, et souvent inaccessible à ceux qui en ont le plus besoin.',
       'Un maçon de Nzeng-Ayong capable de livrer un chantier de 80 millions FCFA ne devrait pas rater un marché réservé aux PME parce qu’il ignorait qu’il lui manquait une attestation fiscale. Une jeune fondatrice de Port-Gentil ne devrait pas découvrir la SGG après avoir renoncé à son emprunt.',
-      'Gabon Connect est le chaînon manquant entre l’ambition et les dispositifs qui existent déjà. Il évalue, il révèle, il oriente. Il ne remplace rien.',
+      'OSA Connect est le chaînon manquant entre l’ambition et les dispositifs qui existent déjà. Il évalue, il révèle, il oriente. Il ne remplace rien.',
     ],
     whyEyebrow: 'Pourquoi c’est important pour le Gabon',
     whyTitle: 'Diversification, PME, digitalisation : trois priorités nationales, un même levier.',
@@ -219,15 +219,15 @@ export const fr = {
       },
       {
         title: 'Digitalisation',
-        text: 'Le SIGFiP, lejmp.com et Kimba Connect ont numérisé la chaîne officielle. Gabon Connect ajoute une couche d’accompagnement qui amène plus d’entreprises, mieux préparées, sur ces plateformes.',
+        text: 'Le SIGFiP, lejmp.com et Kimba Connect ont numérisé la chaîne officielle. OSA Connect ajoute une couche d’accompagnement qui amène plus d’entreprises, mieux préparées, sur ces plateformes.',
       },
     ],
     govEyebrow: 'Comment nous travaillons avec les pouvoirs publics',
     govTitle: 'Compléter et renforcer. Jamais dupliquer, jamais concurrencer.',
     gov: [
-      'Gabon Connect est conçu pour s’insérer en amont des systèmes officiels, pas à leur place. Nous n’hébergeons aucun appel d’offres, aucune soumission, aucun dépôt de documents, aucune transaction. Nous ne récupérons ni ne republions aucune donnée officielle en temps réel.',
+      'OSA Connect est conçu pour s’insérer en amont des systèmes officiels, pas à leur place. Nous n’hébergeons aucun appel d’offres, aucune soumission, aucun dépôt de documents, aucune transaction. Nous ne récupérons ni ne republions aucune donnée officielle en temps réel.',
       'Notre rôle s’arrête là où celui de l’État commence : quand une entreprise est prête, nous l’envoyons vers lejmp.com pour soumissionner, vers le SIGFiP pour ses démarches financières, vers l’ANPI-Gabon pour se formaliser ou obtenir le label startup, vers la SGG pour une garantie, vers Kimba Connect pour l’accompagnement.',
-      'Nous cherchons un dialogue avec la DGMP, l’ARMP, l’ANPI-Gabon et les ministères concernés pour que le contenu explicatif de Gabon Connect soit exact, à jour et utile — et pour que la plateforme serve d’amplificateur aux politiques publiques existantes.',
+      'Nous cherchons un dialogue avec la DGMP, l’ARMP, l’ANPI-Gabon et les ministères concernés pour que le contenu explicatif de OSA Connect soit exact, à jour et utile — et pour que la plateforme serve d’amplificateur aux politiques publiques existantes.',
     ],
     govPledgeTitle: 'Nos engagements',
     govPledge: [

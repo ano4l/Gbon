@@ -388,7 +388,7 @@ export const media = [
     id: 'm-2',
     type: 'video',
     title: { fr: 'Comment lire un avis d’appel d’offres en 10 minutes', en: 'How to read a tender notice in 10 minutes' },
-    by: { fr: 'Atelier vidéo Gabon Connect', en: 'Gabon Connect video workshop' },
+    by: { fr: 'Atelier vidéo OSA Connect', en: 'OSA Connect video workshop' },
     text: {
       fr: 'Décryptage pas à pas d’un avis publié sur lejmp.com : pièces exigées, critères, délais.',
       en: 'Step-by-step breakdown of a lejmp.com notice: required documents, criteria, deadlines.',
